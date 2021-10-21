@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<carte>
+    <menu prix="30">
+        <entree></entree>
+        <entree></entree>
+        <entree></entree>
+        <plat></plat>
+        <plat></plat>
+        <plat></plat>
+        <fromage></fromage>
+        <dessert></dessert>
+        <dessert></dessert>
+        <dessert></dessert>
+    </menu>
+    <menu prix="20">
+        <entree></entree>
+        <entree></entree>
+        <plat></plat>
+        <plat></plat>
+        <dessert></dessert>
+        <dessert></dessert>
+    </menu>
+    <menu prix="15">
+        <entree></entree>
+        <plat></plat>
+        <dessert></dessert>
+    </menu>
+
+
+</carte>
