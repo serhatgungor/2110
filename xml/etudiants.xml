@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<formation>
+    <intitule></intitule>
+    <duree valeur="mois"></duree>
+    <dateDebut></dateDebut>
+    <dateFin></dateFin>
+    <etudiant>
+        <nom></nom>
+        <prenom></prenom>
+        <dateDeNaissance></dateDeNaissance>
+        <mail></mail>
+    </etudiant>
+    <etudiant>
+        <nom></nom>
+        <prenom></prenom>
+        <dateDeNaissance></dateDeNaissance>
+        <mail></mail>
+    </etudiant>
+    <etudiant>
+        <nom></nom>
+        <prenom></prenom>
+        <dateDeNaissance></dateDeNaissance>
+        <mail></mail>
+    </etudiant>
+</formation>

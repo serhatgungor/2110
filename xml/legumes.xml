@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maraicher>
+    <informations>
+        <nom></nom>
+        <adresse>
+            <rue></rue>
+            <codePostal></codePostal>
+            <ville></ville>
+        </adresse>
+        <numeroDeTelephone></numeroDeTelephone>
+    </informations>
+    <production>
+        <legume>
+            <nom></nom>
+            <datedePlantation></datedePlantation>
+            <datedeRecolte></datedeRecolte>
+            <quantite></quantite>
+            <vente>
+                <prix></prix>
+                <quantité></quantité>
+            </vente>
+        </legume>
+    </production>
+</maraicher>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<offresEmploi>
+    <emploi>
+        <intitule>Développeur Php</intitule>
+        <ville>Paris</ville>
+        <description>
+                Votre mission
+        Intègre l'équipe en tant que Développeur PHP et participe à l'évolution de la plateforme web dans un contexte Agile.
+
+        TA MISSION SI TU L'ACCEPTES
+        - Etre acteur de l'évolution de la plateforme web (site web, site mobile, back Office et api) : ajout de fonctionnalités, développement, documentation.
+        - Participer à l'ensemble des cérémoniaux agiles de l'équipe.
+
+        CE QU'ON AIMERA CHEZ TOI
+        - Tu es expérimenté(e) en PHP 7 (POO, design pattern...) et possèdes de bonnes connaissances du framework Symfony.
+        - Tu es à l'aise en architectures web, notamment à fort trafic (cache, CDN, webperf, REST, graphQL, etc.).
+        - Les contextes agile, ça te connaît.
+
+        Avoir des notions du framework API Platform est un plus !
+
+        CE QUE TU AIMERAS CHEZ NOUS
+        - Un apprentissage permanent grâce à un large éventail fonctionnel et technique.
+        - Une REELLE proximité avec ton manager.
+        - Des missions choisies dans le respect des engagements Quadra.
+        - Des possibilités d'évolution qui s'adaptent à tes ambitions.
+
+        ET THE CHERRY ON THE CAKE...
+        - Des tickets resto' pour tes déjeuners.
+        - Ton abonnement de transport pour aller bosser, c'est 100% remboursé !.
+        - Une mutuelle d'entreprise que tu adaptes à tes besoins.
+        - Un plan d'intéressement et de la participation.
+            </description>
+        <dateDeDemarrage>25/10/2021</dateDeDemarrage>
+        <salaireAnnuel devise="K€">32.85</salaireAnnuel>
+        <mail>devphp@gmail.com</mail>
+    </emploi>
+    <emploi>
+        <intitule>Développeur Java</intitule>
+        <ville>Mulhouse</ville>
+        <description>
+                Vos missions seront les suivantes :
+                - Analyser et mettre ne place des développements spécifiques.
+                - Rédiger les spécifications techniques et fonctionnelles.
+                - Concevoir, tester et implémenter les maquettes et les prototypes.
+                - Développer des applications.
+                - Assurer la maintenance des applications existantes.
+                Issu(e) d'une formation supérieure Bac +5) en informatique, école d'ingénieurs ou université, vous justifiez d'une première expérience dans le développement.
+
+        Vous maitrisez les environnements de développement : Java JEE, base de données SQL sous Windows et Linux.
+
+        La connaissance de la méthodologie Agile est un plus
+
+        Vous êtes rigoureux et avez une bonne capacité d'analyse. Vous avez une curiosité technique qui vous permet d'évoluer sur différents environnements et vous êtes soucieux de la qualité de votre travail
+                </description>
+        <dateDeDemarrage>25/10/2021</dateDeDemarrage>
+        <salaireAnnuel devise="K€">28.97</salaireAnnuel>
+        <mail>devjava@gmail.com</mail>
+    </emploi>
+    <emploi>
+        <intitule>Développeur NodeJS</intitule>
+        <ville>Toulouse</ville>
+        <description>
+                    Description 
+                    
+        Développeur Fullstack Javascript NodeJs/React : Le Poste 
+
+        Tu travailleras sur Javascript (NodeJs/React/Express) 
+        Tu développeras de nouvelles fonctionnalités du front-office 
+        Tu contribueras à l’évolution de l’API REST et de la base de données 
+        Tu participeras à la maintenance et documentation du produit 
+        Travail en petite équipe 
+        
+        Le profil attendu 
+
+        Développeur Fullstack Javascript NodeJs/React : Le Profil 
+
+        Bonnes compétences en NodeJs, React/Redux, Express 
+        Expérience de minimum 2 ans 
+        Utilisation de Git 
+        Rigueur, esprit d’équipe 
+        Anglais écrit et parlé 
+        Des connaissances des langages HTML/CSS, des bases SQL, et/ou de l’IDE Visual Studio Code sont un plus 
+        
+        L’offre 
+
+        Salaire à définir en fonction du profil 
+        Tu rejoins une équipe dans laquelle il fait bon vivre et un groupe dynamique 
+        Tu travailles sur une solution super innovante permettant à différentes sociétés de mieux gérer leur relation client 
+                </description>
+        <dateDeDemarrage>25/10/2021</dateDeDemarrage>
+        <salaireAnnuel devise="K€"></salaireAnnuel>
+        <mail>devnodejs@gmail.com</mail>
+    </emploi>
+</offresEmploi>

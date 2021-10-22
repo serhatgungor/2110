@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cinema>
+    <nom></nom>
+    <film>
+        <titre></titre>
+        <projection>
+            <date></date>
+            <heure></heure>
+        </projection>
+    </film>
+    <film>
+        <titre></titre>
+        <projection>
+            <date></date>
+            <heure></heure>
+        </projection>
+    </film>
+    <film>
+        <titre></titre>
+        <projection>
+            <date></date>
+            <heure></heure>
+        </projection>
+    </film>
+    <film>
+        <titre></titre>
+        <projection>
+            <date></date>
+            <heure></heure>
+        </projection>
+    </film>
+    <film>
+        <titre></titre>
+        <projection>
+            <date></date>
+            <heure></heure>
+        </projection>
+    </film>
+</cinema>

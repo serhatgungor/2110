@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu>
+    <entree>
+        <nom></nom>
+        <prix devise="Euro"></prix>
+        <description></description>
+    </entree>
+    <entree>
+        <nom></nom>
+        <prix devise="Euro"></prix>
+        <description></description>
+    </entree>
+    <plat>
+        <nom>Steak Frites Salade</nom>
+        <prix devise="Euro">12.99</prix>
+        <description>Un steak de 120 grammes accompagné de frites fraiches et quelques feuilles de salades assaisonnées</description>
+    </plat>
+    <plat>
+        <nom></nom>
+        <prix devise="Euro"></prix>
+        <description></description>
+    </plat>
+    <plat>
+        <nom></nom>
+        <prix devise="Euro"></prix>
+        <description></description>
+    </plat>
+    <dessert>
+        <nom></nom>
+        <prix devise="Euro"></prix>
+        <description></description>
+    </dessert>
+    <dessert>
+        <nom></nom>
+        <prix devise="Euro"></prix>
+        <description></description>
+    </dessert>
+</menu>
