@@ -13,7 +13,7 @@
 </head>
 
 <body>
-    <div class="container mb-4 pb-4">
+    <header role="banner" class="container">
         <!--title-->
         <h1 class="text-center p-4">Concepteur Developpeur d'application</h1>
         <!--navbar-->
@@ -35,14 +35,19 @@
             </div>
         </nav>
         <!--navbar end-->
-        <div class="row  border shadow-lg rounded">
-            <div class="col-sm-4 pt-4" style="background-color: #d6e7fa;">
-                <div class="container">
+    </header>
+
+    <main role="main" class="container mb-4 pb-4">
+        <section class="row  border shadow-lg rounded">
+
+            <!--Personal Contact Informations-->
+            <article class="col-sm-4 pt-4" style="background-color: #d6e7fa;">
+                <article class="container">
                     <img src="img/profil_serhat_round.png" alt="" class="img-fluid">
-                    <span class="text-muted">Né en 1984</span>
-                </div>
+                    <p class="text-muted">Né en 1984</p>
+                </article>
                 <hr>
-                <div class="container">
+                <article class="container">
                     <h2>Informations</h2>
                     <p><a href="tel:+33631958304"><i class="fas fa-phone"></i> 0631958304</a></p>
                     <p>57150 Creutzwald</p>
@@ -59,53 +64,66 @@
                             rel="noopener noreferrer">serhatgungor.netlify.app</a>
                     </p>
                     <p>Permis A, B + véhicule</p>
-                </div>
-            </div>
-            <div class="col pt-4" style="background-color: #eaf0f7;">
-                <div class="container">
+                </article>
+            </article>
+            <!--Personal Contact Informations end-->
+            <!--Personal Informations-->
+            <section class="col pt-4" style="background-color: #eaf0f7;">
+                <article class="container">
                     <h1 class="text-end">Serhat Gungor</h1>
                     <br>
-                    <p>Titre Professionnel Développeur web validé en Octobre 2020, je me suis lancé dans une nouvelle aventure de 2 ans pour devenir Concepteur Développeur d'Applications.</p>
+                    <p>Titre Professionnel Développeur web validé en Octobre 2020, je me suis lancé dans une nouvelle
+                        aventure de 2 ans pour devenir Concepteur Développeur d'Applications.</p>
                     <hr>
-                </div>
-                <div class="container">
+                </article>
+                <article class="container">
                     <h2>Langues</h2>
                     <p>Turc et Kurde Bilingue</p>
                     <p>Anglais B1</p>
                     <p>Allemand A2</p>
-                </div>
+                </article>
                 <hr>
-                <div class="container">
+                <article class="container">
                     <h2>Loisirs</h2>
                     <p>Basket-Ball</p>
                     <p>Jeux vidéos</p>
-                </div>
+                </article>
                 <hr>
-                <div class="container">
+                <article class="container">
                     <h2 class="pb-2">Mes Créations</h2>
-                    <div class="row">
-                        <div class="col-md-5 pb-2">
+                    <section class="row">
+                        <article class="col-md-5 pb-2">
                             <a href="https://karlidag.at/" target="_blank">
                                 <img src="img/Karlidag-pool-blue.jpeg" alt="" class="img-fluid rounded"
                                     style="height: 120px;">
                             </a>
-                        </div>
-                        <div class="col pb-2">
+                        </article>
+                        <article class="col pb-2">
                             <a href="https://salon-snow-white.at/" target="_blank">
                                 <img src="img/SnowWhite.png" alt="" class="img-fluid rounded" style="height: 120px;">
                             </a>
-                        </div>
-                        <div class="col-lg-2 pb-2">
+                        </article>
+                        <article class="col-lg-2 pb-2">
                             <a href="https://serhatgungor.netlify.app/" target="_blank">
                                 <img src="img/avatar.png" alt="" class="img-fluid rounded" style="height: 120px;">
                             </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+                        </article>
+                    </section>
+                </article>
+            </section>
+        </section>
+    </main>
 
-    </div>
+    <!--Footer-->
+    <footer role="contentinfo" class="container mb-4">
+        <p>
+            Copyright 2021
+            <i class="far fa-copyright"></i>
+            - Serhat Gungor
+        </p>
+    </footer>
+    <!--Footer-->
+
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
         integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB"
         crossorigin="anonymous"></script>
